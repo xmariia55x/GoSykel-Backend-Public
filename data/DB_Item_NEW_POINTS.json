@@ -1,0 +1,106 @@
+[{
+  "name": "Bicicleta primaveral",
+  "description": "Luce en tu perfil una bicicleta tan chula como tú. Para los amantes del verano y las flores.",
+  "type": "AVATAR",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648829952/gosykel/avatars/bycicle_nostalgic_no_bg_avatar_gji9qs.png",
+  "points": 500,
+  "first": false
+},{
+  "name": "Avatar cosmopolita",
+  "description": "Si eres amante de la ciudad, de las rutas en bicicleta y además eres cosmopolita, ¡este es tu avatar!",
+  "type": "AVATAR",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648829952/gosykel/avatars/bycicle_no_bg_avatar_mc6kah.png",
+  "points": 800,
+  "first": false
+},{
+  "name": "Ciclistas al atardecer",
+  "description": "En verano coger la bici a las 12 de la mañana puede ser una odisea. Si cuando se acerca la noche piensas en salir con tu bicicleta, ¡has encontrado tu avatar ideal!",
+  "type": "AVATAR",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648829796/gosykel/avatars/mountain-bike_avatar_qbadvb.png",
+  "points": 600,
+  "first": false
+},{
+  "name": "Ciclista campestre",
+  "description": "Te estás iniciando en el mundo del ciclismo y esta es tu cara cada vez que vas con tu bicicleta al campo.",
+  "type": "AVATAR",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648829796/gosykel/avatars/cycling_avatar_rnky5w.png",
+  "points": 250,
+  "first": false
+},{
+  "name": "Nivel iniciación",
+  "description": "Un avatar para los que acaban de aterrizar en GoSykel.",
+  "type": "AVATAR",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1652987534/gosykel/avatars/beginner_avatar_dcbyio.png",
+  "points": 0,
+  "first": true
+},{
+  "name": "Encabezado ciclistas juniors",
+  "description": "El encabezado ideal para los nuevos usuarios de GoSykel.",
+  "type": "HEADER",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648830930/gosykel/headers/default_header_anr3ms.jpg",
+  "points": 0,
+  "first": true
+},{
+  "name": "Burbujas de color",
+  "description": "¡Con este encabezado tan colorido le darás a tu perfil un toque espectacular!",
+  "type": "HEADER",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648830931/gosykel/headers/manchas_header_lkhhou.jpg",
+  "points": 1000,
+  "first": false
+},{
+  "name": "Amantes del azul",
+  "description": "Si eres amante del azul en las aplicaciones, este encabezado le dará el toque ideal.",
+  "type": "HEADER",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1652987804/gosykel/headers/blue_header_izxjvh.jpg",
+  "points": 500,
+  "first": false
+},{
+  "name": "Círculos everywhere",
+  "description": "Un encabezado con muchos círculos, se parecen a las ruedas de la bicicleta que conduces a diario.",
+  "type": "HEADER",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648830931/gosykel/headers/circle_header_gu9p8q.jpg",
+  "points": 700,
+  "first": false
+},{
+  "name": "Verticalidad absoluta",
+  "description": "Si te gustan las cuestas, con este encabezado todos lo sabrán gracias a sus trazos verticales.",
+  "type": "HEADER",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1648830931/gosykel/headers/geometric_header_xqqpgh.jpg",
+  "points": 300,
+  "first": false
+},{
+  "name": "A un paso del cielo",
+  "description": "Usa esta insignia para informar al resto de usuarios de que pronto serás parte de los usuarios top de GoSykel. ¡Te lo mereces!",
+  "type": "BADGE",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1653028049/gosykel/badges/one_step_closer_nidjmd.png",
+  "points": 600,
+  "first": false
+},{
+  "name": "Nivel intermedio",
+  "description": "Llevas bastante tiempo en GoSykel y seguro que has trabajado duro, ¡te invitamos a que luzcas esta insignia para avisar al resto!",
+  "type": "BADGE",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1653028049/gosykel/badges/mid_badge_again_wxsijr.png",
+  "points": 500,
+  "first": false
+},{
+  "name": "Recién llegados",
+  "description": "Acabas de aterrizar en GoSykel. Esta es tu insignia inicial, ¡haz rutas para conseguir puntos y comprar insignias!",
+  "type": "BADGE",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1653028049/gosykel/badges/initial_badge_wivuij.png",
+  "points": 0,
+  "first": true
+},{
+  "name": "Comenzamos a entendernos",
+  "description": "Hace poco te has registrado en GoSykel y ya empiezas a dar tus primeros pasos, sigue así ¡te mereces esta insignia!",
+  "type": "BADGE",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1653028049/gosykel/badges/mid_badge_ntgyqf.png",
+  "points": 200,
+  "first": false
+},{
+  "name": "Usuarios top",
+  "description": "Como su nombre indica, esta insignia es para expertos de la bici como tú. ¡Es nuestra insignia más especial!",
+  "type": "BADGE",
+  "location": "https://res.cloudinary.com/mariacloudinarycloud/image/upload/v1653028049/gosykel/badges/premium_badge_oq28oe.png",
+  "points": 700,
+  "first": false
+}]
